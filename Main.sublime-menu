@@ -1,0 +1,10 @@
+[
+{
+    "id": "view",
+    "children":
+    [
+        {"id": "custom"},
+        { "command": "filename_status" }
+    ]
+}
+]
